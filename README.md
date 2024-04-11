@@ -5,7 +5,6 @@ Welcome to the GitHub repository for my Covid-19 data analysis project. This pro
 ## Table of Contents
 1. [Dashboard](#dashboard)
 2. [Tableau Link](#TableauLink)
-3. [Regions](#regions)
 
 ### Dashboard
 The **Dashboard** section provides a comprehensive overview of covid-19 cases:
@@ -18,4 +17,5 @@ The **Dashboard** section provides a comprehensive overview of covid-19 cases:
 
 ### Tableau Link
 For Further detail, Please look up in the tableau dashboard.
+
 https://public.tableau.com/app/profile/reina3242/viz/Covid-19Overviewfor5years/Dashboard1
